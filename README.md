@@ -1,6 +1,8 @@
 # CheckboxMenu
 Dropdown Menu with Checkbox
 
+npm install antd OR yarn add antd
+
 import CheckboxMenu from "./CheckboxMenu";
 
 <CheckboxMenu
