@@ -1,0 +1,8 @@
+div .ant-popover-inner-content {
+    padding: 0 !important;
+    padding-left: 8px !important;
+}
+button.ant-btn {
+    padding: 5px 15px !important;
+    height: 40px !important;
+}
